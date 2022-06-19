@@ -1,7 +1,7 @@
 ## Me chamo Felipe, sou estudante de Análise e Desenvolvimento de Sistemas!
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-salusto-lima-258a5a226/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felsalu&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felsalu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="fel-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
