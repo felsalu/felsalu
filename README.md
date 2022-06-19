@@ -1,5 +1,5 @@
 ## Me chamo Felipe, sou estudante de Análise e Desenvolvimento de Sistemas!
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/felipe-salusto-lima-258a5a226/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felsalu&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
